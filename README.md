@@ -11,4 +11,4 @@ Just run the script providing the minutes to stop recording.
 
 Example:
 
-`$ python ssr 15`
+`$ python ssr.py 15`
